@@ -27,5 +27,4 @@ start_loc(def_main, def_shop, def_tavern, def_lumber_mill)
 text_field = tk.Label(text='Вы играете за персонажа....', width=56, height=15, bg='yellow')
 text_field.grid(row=0)
 time.sleep(0)
-
 window.mainloop()
