@@ -19,9 +19,7 @@ gold = 0
 hp = 10
 pickaxe = None  # ='алмазна'   ='каменная'
 
-
 start_loc(def_main, def_shop, def_tavern, def_lumber_mill)
-
 
 # text_field = tk.Label(text='Приветствую вас в  деревне....', width=56, height=15, bg='yellow')
 # text_field.grid(row=0)
